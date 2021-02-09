@@ -1,0 +1,19 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Davies and Parns(1988)]{Davies1998}
+E.~B. Davies and L.~Parns.
+\newblock Trapped modes in acoustic waveguides.
+\newblock \emph{Q. J. Mech. Appl. Math.}, 51:\penalty0 477--492, 1988.
+
+\bibitem[Opechowski and Guccione(1965)]{Magnetism}
+W.~Opechowski and R.~Guccione.
+\newblock Introduction to the theory of normal metals.
+\newblock In \emph{Magnetism}, volume IIa, page 105. Academic Press, New York,
+  1965.
+
+\end{thebibliography}
